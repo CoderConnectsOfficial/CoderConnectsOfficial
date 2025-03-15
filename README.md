@@ -2,6 +2,7 @@
 <h3 align="center">Hello Welcome to Coder connects. We are here to teach the programming to you. You can learn web developement, app development, python programming and also artificial intelligence and machine learning. Just follow our upcomming video to get an quality learning platform. You can learn from both tamil and english medium. Thank you for visiting our channel.</h3>
 
 
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coderconnectsofficial" alt="coderconnectsofficial" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
@@ -23,4 +24,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coderconnectsofficial&show_icons=true&locale=en" alt="coderconnectsofficial" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coderconnectsofficial&" alt="coderconnectsofficial" /></p>
+
